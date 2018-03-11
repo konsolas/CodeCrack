@@ -50,7 +50,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>me.konsolas.codecrack.CodeCrack</mainClass>
+                            <mainClass>net.konsolas.codecrack.CodeCrack</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
